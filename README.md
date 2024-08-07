@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Voinea Laurentiu Gabriel 👋</h1>
-<h3 align="center">A Passionate Developer from Romania</h3>
+<h3 align="center">Passionate Developer from Romania</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Technology enthusiast specializing in developing innovative games and applications for Windows and mobile platforms. Expert in Linux and always eager to explore new technologies.</strong>
+  <strong>I specialize in developing innovative games and applications for Windows and mobile platforms. As a Linux expert, I am always eager to explore new technologies and embrace cutting-edge solutions.</strong>
 </p>
 
 ---
@@ -32,14 +32,14 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://fb.com/voinea laurentiu gabriel" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" />
+  <a href="https://www.facebook.com/gabivlg/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/gabi.vlg.20" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" />
+  <a href="https://instagram.com/gabi.vlg.20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/c/gabivlg" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" />
+  <a href="https://www.youtube.com/@gabivlg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -47,64 +47,28 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dot-net.png" alt=".NET" width="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" width="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" width="40" />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" alt="Unreal Engine" width="40" />
-  </a>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-DotNet-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/-Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPOiU9wSeM2z7lu/giphy.gif" alt="Coding" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding" width="600" height="300"/>
 </p>
