@@ -1,13 +1,16 @@
-<h1 align="center">Hi there, I'm Voinea Laurentiu Gabriel (Gabi) 👋</h1>
-<h3 align="center">Game Developer | Flutter & Unity Enthusiast | Founder of Liga Network SRL</h3>
+<h1 align="center" style="background-image: url('https://imgur.com/GVTGQ6z'); background-size: cover; color: white; padding: 50px;">
+  Hi there, I'm Voinea Laurentiu Gabriel 👋
+</h1>
+
+<h3 align="center" style="color: white;">Game Developer | Flutter & Unity Enthusiast | Founder of Liga Network SRL</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300" />
 </p>
 
 ---
 
-<p align="center">
+<p align="center" style="color: white;">
   <strong>I am a passionate game developer focused on creating realistic, immersive gaming experiences using Unity. With a solid background in mobile app development using Flutter, I aim to bring innovative projects to life, blending creativity with cutting-edge technology.</strong>
 </p>
 
@@ -34,7 +37,7 @@
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center" style="color: white;">Connect with Me</h3>
 <p align="center">
   <a href="https://www.facebook.com/gabivlg/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -49,7 +52,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center" style="color: white;">Languages and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -69,5 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Coding" width="600" height="300" />
 </p>
