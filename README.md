@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Voinea Laurentiu Gabriel 👋</h1>
-<h3 align="center">Passionate Developer from Romania</h3>
+<h1 align="center">Hi there, I'm Voinea Laurentiu Gabriel (Gabi) 👋</h1>
+<h3 align="center">Game Developer | Flutter & Unity Enthusiast | Founder of Liga Network SRL</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" height="300"/>
@@ -8,25 +8,29 @@
 ---
 
 <p align="center">
-  <strong>I specialize in developing innovative games and applications for Windows and mobile platforms. As a Linux expert, I am always eager to explore new technologies and embrace cutting-edge solutions.</strong>
+  <strong>I am a passionate game developer focused on creating realistic, immersive gaming experiences using Unity. With a solid background in mobile app development using Flutter, I aim to bring innovative projects to life, blending creativity with cutting-edge technology.</strong>
 </p>
 
 ---
 
 ### 💼 Current Projects
-- 🔭 Working on [Storys.Life](https://storys.life/)
+- 🔭 Developing a **Bacalaureat Study App** for students in Romania
+- 🎮 Continuing development on a **Unity-based post-apocalyptic survival game** (Cernobyl: Second Chance)
+- 💡 Founder of [Liga Network SRL](https://www.liganetwork.ro), specializing in game and app development
 
 ### 📚 Learning Goals
-- 🌱 Currently mastering Python and enhancing my skill set.
+- 🌱 Exploring advanced **game mechanics** and **real-time animation** techniques for realistic visual experiences
+- 🚀 Expanding knowledge in **AI and Machine Learning** for intelligent NPC behaviors
 
 ### 🌐 Online Presence
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/GabiVlg)
+- 👨‍💻 Check out my work on [GitHub](https://github.com/GabiVlg)
+- 🔗 Visit my portfolio and projects at [Liga Network SRL](https://www.liganetwork.ro)
 
 ### 📬 Contact Me
 - 📫 Reach me at: **gabivoinea29@gmail.com**
 
 ### 🎉 Fun Fact
-- ⚡ Always seeking to improve and innovate.
+- ⚡ I'm always exploring new technologies and pushing the boundaries of what games and apps can do, with a strong focus on realism and immersive gameplay.
 
 ---
 
@@ -47,24 +51,19 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/-DotNet-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/-Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ---
